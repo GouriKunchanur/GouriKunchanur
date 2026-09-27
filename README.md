@@ -135,19 +135,3 @@ LVS
       ↓
 Verified Layout
 
-🧩 Standard Cell Design & Layout
-
-CMOS VLSI | Physical Design
-
-Exploring CMOS standard-cell design and layout as part of my
-VLSI learning journey.
-
-Focus Areas
-CMOS layout fundamentals
-Standard-cell structure
-Placement
-Routing
-Design rules
-Physical verification
-
-🔗 View Standard Cell Work →
