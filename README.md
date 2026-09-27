@@ -105,7 +105,7 @@ using Cadence Virtuoso.
 - ⏳ Dead-time generation
 - 📊 Simulation under different load conditions
 
-🔗 **[View Project →](YOUR_BUCK_REPO_LINK)**
+🔗 **[View Project →](https://github.com/GouriKunchanur/synchronous_DC_Buck_converter)**
 
 ---
 
